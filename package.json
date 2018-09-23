@@ -1,0 +1,38 @@
+{
+  "name": "route69",
+  "version": "1.0.0",
+  "description": "Simple hash based router",
+  "main": "Router.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrsJsk/route69.git"
+  },
+  "keywords": [
+    "hash",
+    "router",
+    "javascript",
+    "client-side"
+  ],
+  "author": "Boris Joskic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrsJsk/route69/issues"
+  },
+  "homepage": "https://github.com/BrsJsk/route69#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
